@@ -1,0 +1,11 @@
+.title {
+  text-align: center;
+}
+
+.divider {
+  color: #eee;
+  height: 1px;
+  margin-bottom: 24px;
+  margin-top: 16px;
+  width: 240px;
+}

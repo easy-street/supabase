@@ -1,0 +1,18 @@
+{
+  "name": "supabase-nextjs-swr",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^1.11.17",
+    "@supabase/ui": "^0.26.2",
+    "next": "10.2.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "swr": "^0.5.6"
+  }
+}
